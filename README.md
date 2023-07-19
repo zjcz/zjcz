@@ -2,9 +2,11 @@
 
 ## Software Developer
 
-Hi, I'm Jon. By day I am a software engineer working in the API & Integrations dept of a consultancy company.  This involves working with a variety of technologies including APIGateways, AWS, Java and Linux.  
+Hi, I'm Jon, a software engineer working in the API & Integrations department of a consultancy company. My day-to-day involves working with a variety of technologies, including API Gateways, AWS, Java, and Linux.
 
-By night I am learning React, NodeJS and TypeScript. I also have a keen interest in generative AI.
+Outside of work, I'm constantly expanding my skill set. Currently, I'm focusing on learning React, NodeJS, and TypeScript. Additionally, I have a keen interest in generative AI.
+
+Overall, my passion for technology drives me both professionally and personally, as I continuously seek to grow and stay up-to-date with the latest developments in the field.
 
 ### Currently Working With
 
