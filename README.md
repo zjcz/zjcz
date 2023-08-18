@@ -35,7 +35,6 @@ Overall, my passion for technology drives me both professionally and personally,
 ![zjcz](https://github-readme-stats.vercel.app/api/top-langs?username=zjcz&show_icons=true&locale=en&layout=compact)
 
 ### How to contact me
-
+- [Website](https://www.jonclarke.dev)
 - [GitHub](https://www.github.com/zjcz)
 - [LinkedIn](https://linkedin.com/in/jon-clarke-leeds)
-- [Dev.to](https://dev.to/zjcz)
