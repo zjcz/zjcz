@@ -2,7 +2,7 @@
 
 ## Software Developer
 
-Hi, I'm Jon, a software engineer working in the API & Integrations department of a consultancy company. My day-to-day involves working with a variety of technologies, including API Gateways, AWS, Java, and Linux.
+Hi, I'm Jon, a software developer currently using Flutter and Dart to develop innovative mobile applications. Prior to this, I spent five years working as a Java developer, mainly developing backend services. Before this I used .Net for much of my career.
 
 Outside of work, I'm constantly expanding my skill set. Currently, I'm focusing on learning React, NodeJS, and TypeScript. Additionally, I have a keen interest in generative AI.
 
@@ -10,13 +10,16 @@ Overall, my passion for technology drives me both professionally and personally,
 
 ### Currently Working With
 
+- Flutter
+- Dart
+- Git / GitHub
+  
+### Previously Worked With
+
 - AWS
 - Java
 - Linux
 - Git
-
-### Previously Worked With
-
 - Java
 - C#, VB.Net, .Net Framework (up to 4.x)
 - SQL Server
