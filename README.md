@@ -16,16 +16,15 @@ Overall, my passion for technology drives me both professionally and personally,
   
 ### Previously Worked With
 
-- AWS
-- Java
-- Linux
-- Git
 - Java
 - C#, VB.Net, .Net Framework (up to 4.x)
+- AWS, GCP and Azure
+- Linux
+- Git
+- Subversion
 - SQL Server
 - jQuery
 - Bootstrap
-- Subversion
 
 ### Currently Learning
 
